@@ -1,5 +1,5 @@
 ---
-- name: Playbook for httpd installation
+- name: PLAYBOOK  for httpd installation
   hosts: all
   tasks:
     - name: Install httpd Package 
